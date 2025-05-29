@@ -1,0 +1,30 @@
+,ids,growth,name,status
+7,OPHBDC,-6.110313818163652e-11,Octaprenyl-hydroxybenzoate decarboxylase,optimal
+196,METAT,-5.270097867557431e-11,Methionine Adenosyltransferase,optimal
+74,AHC,-3.2163173649617407e-11,Adenosylhomocysteinase,optimal
+69,HBZOPT,-2.4729815032788307e-11,Hydroxybenzoate octaprenyltransferase,optimal
+61,OHPHM,-2.46693062817034e-11,2-octaprenyl-6-hydroxyphenol methylase,optimal
+10,FMNAT,-2.462539468432185e-11,FMN Adenylyltransferase,optimal
+54,CDPMEK,-2.1137008045397096e-11,4-(cytidine 5-diphospho)-2-C-methyl-D-erythritol kinase,optimal
+240,MECDPDH2,-1.8837730414891808e-11,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase",optimal
+20,DXPS,-1.5139778208847876e-11,1-deoxy-D-xylulose 5-phosphate synthase,optimal
+5,CHRPL,-1.3960996806070195e-11,Chorismate pyruvate lyase,optimal
+185,DMATT,-1.1680855928747373e-11,Dimethylallyltranstransferase,optimal
+203,GRTT,-1.0157235358945288e-11,Geranyltranstransferase,optimal
+111,EAR11M12x,-6.250397429966283e-12,11-methyl-trans-dodec-2-enoyl-ACPNAD+ oxidoreductase (A-specific),optimal
+164,DDPA,-5.581551939831246e-12,3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase,optimal
+180,ADCL,-4.978899177777586e-12,4-aminobenzoate synthase,optimal
+191,CYTK1,-4.9512623890259594e-12,Cytidylate Kinase (CMP),optimal
+129,SHK3Dr,-2.8245313569739737e-12,shikimate dehydrogenase,optimal
+117,TDPGDH,-2.746409649441673e-12,"DTDPglucose 4, 6-Dehydratase",optimal
+118,3OAS5M6,-1.6731060633982314e-12,5-methyl-hexanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating),optimal
+225,3OAR10M12,-1.538343608046885e-12,10-methyl-3-oxo-dodecanoyl-ACPNADP+ oxidoreductase,optimal
+83,DHQS,-1.179740696137278e-12,3-dehydroquinate synthase,optimal
+70,2MEBCOADH,-1.1189974168116974e-12,(S)-2-methylbutanoyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-(2-methylbutanoyl)transferase,optimal
+170,3OAS12M14,-9.64940897562554e-13,12-methyl-tetra-decanoyl-ACPmalonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating),optimal
+100,EX_biomass(e),-9.204270727949335e-13,EX Biomass c0,optimal
+36,UAAGDS,-9.15645282851984e-13,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase",optimal
+106,PSCVT,-7.688470978186216e-13,3-phosphoshikimate 1-carboxyvinyltransferase,optimal
+159,3OAR9M10,-6.997451950758268e-13,9-methyl-3-oxo-decanoyl-ACPNADP+ oxidoreductase,optimal
+38,COBALT2tex,-6.796476879354714e-13,Co2+ diffusion extracellular to periplasm,optimal
+53,DHQTi,-6.710395697784649e-13,"3-dehydroquinate dehydratase, irreversible",optimal
